@@ -6,7 +6,9 @@ Task 2: gcc $CFILE -S       ; It generates the assembly code and link and saves 
 
 Task 3: gcc $CFILE -o cisfun; It compiles the file and creates an executable named cisfun.
 
-Task 4: we wrote the code
+Task 4: We wrote the C program and used puts function to print "Programming is like building a multilingual puzzle.
 
-Task 5
+Task 5: We wrote a C program and used print function to print " with proper grammar, but the outcome is a piece of art,".
+
+Task 6: 
 
