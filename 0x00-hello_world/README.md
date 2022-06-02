@@ -8,7 +8,9 @@ Task 3: gcc $CFILE -o cisfun; It compiles the file and creates an executable nam
 
 Task 4: We wrote the C program and used puts function to print "Programming is like building a multilingual puzzle.
 
-Task 5: We wrote a C program and used print function to print " with proper grammar, but the outcome is a piece of art,".
+Task 5: We wrote a C program and used printf function to print " with proper grammar, but the outcome is a piece of art,".
 
-Task 6: 
+Task 6: We write a C program that prints the size of various types on the computer it is compiled and run on.
+
+Task 7:
 
