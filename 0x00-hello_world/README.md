@@ -4,6 +4,9 @@ Task 1: gcc -c $CFILE       ; It complies but doesnt link the file{We have to "e
 
 Task 2: gcc $CFILE -S       ; It generates the assembly code and link and saves in it the output file.
 
-Tasl 3: gcc $CFILE -o cisfun; It compiles the file and creates an executable named cisfun.
+Task 3: gcc $CFILE -o cisfun; It compiles the file and creates an executable named cisfun.
 
+Task 4: we wrote the code
+
+Task 5
 
