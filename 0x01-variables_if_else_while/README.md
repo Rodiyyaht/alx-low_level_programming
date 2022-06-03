@@ -18,4 +18,8 @@ Task 8: This program prints all numbers of base 16 in lowercase followed by a ne
 
 Task 9: This program prints all possible combination of single digits, seperated by ',' using only putchar(four times).
 
-Task 10: 
+Task 10: This program that prints all possible different combinations of two digits followed by a comma',' using only putchar(five times).
+
+Task 11: This program that prints all possible different combinations of three digits followed by a comma',' using only putchar(six times).
+
+Task 12: This program that prints all possible combinations of two two-digit numbers ranging from 00 to 99, seperated by a comma',' followed by a space {like task 10 and 11} using only putchar(eight times).
