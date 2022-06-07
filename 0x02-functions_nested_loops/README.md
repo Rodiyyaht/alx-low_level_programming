@@ -14,3 +14,5 @@ returns 0 and prints 0 if n is zero and returns -1 and prints - if n is less tha
 
 Task 6: A function that computes the absolute value of an integer nt _abs(int).
 
+Task 7: a function that prints the last digit of a number (int print_last_digit(int)).
+
