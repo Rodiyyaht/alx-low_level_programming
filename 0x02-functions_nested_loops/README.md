@@ -18,3 +18,8 @@ Task 7: a function that prints the last digit of a number (int print_last_digit(
 
 Task 8: A function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
+Task 9: A function that prints the 9 times table, starting with 0 (void times_table(void).
+
+Task 10: A function that adds two integers and returns the result (int add(int, int)).
+
+Task 11: A unction that prints all natural numbers from n to 98, followed by a new line (void print_to_98(int n)).
