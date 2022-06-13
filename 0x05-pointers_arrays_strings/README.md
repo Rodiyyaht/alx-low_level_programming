@@ -1,5 +1,5 @@
 Task 0: Prints / updates the value of n.
-0;276;0c
+0;276;0c0;276;0c
 Task 1: Swaps the value of a and b.
 
 Task 2: Returns the length of a string.
@@ -19,3 +19,5 @@ Task 8: A function that prints n elements of an array of integers.
 Task 9: A function that copies the string.
 
 Task 10: A function that convert a string to an integer.
+
+Task 11: A program that generates random valid passwords for the program 101-crackme.
