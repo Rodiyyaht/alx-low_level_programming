@@ -11,3 +11,5 @@ Task 4: Printing the string in reverse.
 Task 5: Printing the string, then in reverse.
 
 Task 6: Prints every other character of a string, starting with the first character.
+
+Task 7: Prints half of a string, followed by a new line.
