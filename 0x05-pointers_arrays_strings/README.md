@@ -4,3 +4,4 @@ Task 1: Swaps the value of a and b.
 
 Task 2: Returns the length of a string.
 
+Task 3: Printing a string.
