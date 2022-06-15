@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * rot13 - encodes a string using rot13.
@@ -7,21 +8,22 @@
  */
 char *rot13(char *s)
 {
-	int i = 0;
+	int a = 0;
 
-	while (s[i] != '\0')
+	while (s[a])
 	{
-		while ((s[i] >= 'a' && s[i] <= 'z') ||
-				(s[i] >= 'A' && s[i] <= 'Z'))
+		while ((s[a] >= 'a' && s[a] <= 'z') || (s[a] >= 'A' && s[a] <= 'Z'))
 		{
-			if ((s[i] >= 'a' && s[i] <= 'm') ||
-					(s[i] >= 'A' && s[i] <= 'M'))
-				s[i] += 13;
-			else
-				s[i] -= 13;
-			i++;
+			if ((s[a] > 'm' && s[a] <= 'z') || (s[a] > 'M' && s[a] <= 'Z'))
+			{
+				s[a] -= 13;
+				break;
+			}
+
+			s[a] += 13;
+			break;
 		}
-		i++;
+		a++;
 	}
 	return (s);
 }
