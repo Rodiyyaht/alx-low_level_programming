@@ -19,3 +19,7 @@ Task 8: A function that encodes a string using rot13.
 Task 9: A function that prints an integer.
 
 Task 10: A prints a[2] = 98, followed by a new line.
+
+Task 11: A function that adds two numbers.
+
+Task 12: A function that prints a buffer.
