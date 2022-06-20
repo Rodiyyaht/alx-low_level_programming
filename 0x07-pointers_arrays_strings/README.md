@@ -13,3 +13,7 @@ Task 5: A function that locates a substring.
 Task 6: A function that prints the chessboard.
 
 Task 7: A function that prints the sum of the two diagonals of a square matrix of integers.
+
+Task 8: A function that sets the value of a pointer to a char.
+
+Task 9: A file that contains the password for the crackme2 executable.
