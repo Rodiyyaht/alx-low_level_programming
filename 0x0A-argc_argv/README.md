@@ -8,4 +8,4 @@ Task 3: It is a program that multiplies two numbers.
 
 Task 4: It is a program that adds positive numbers.
 
-Task 5: It is 
+Task 5: It is a program that prints the minimum number of coins to make change for an amount of money.
