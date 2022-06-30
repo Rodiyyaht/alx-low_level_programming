@@ -106,8 +106,15 @@ void get_prod(char *prod, char *mult, int digit, int zeroes)
 
 	while (*prod)
 	{
-
 		*prod = 'x';
+		prod++;
+	}
+
+	prod--;
+
+	while (zeroes--)
+	{
+		*prod = '0';
 		prod--;
 	}
 
@@ -115,8 +122,8 @@ void get_prod(char *prod, char *mult, int digit, int zeroes)
 	{
 		if (*mult < '0' || *mult > '9')
 		{
-			printf("Error\n");
-			exit(98);
+			printf("Error\n")
+				exit(98);
 		}
 
 		num = (*mult - '0') * digit;
@@ -124,6 +131,7 @@ void get_prod(char *prod, char *mult, int digit, int zeroes)
 		*prod = (num % 10) + '0';
 		tens = num / 10;
 	}
+
 	if (tens)
 		*prod = (tens % 10) + '0';
 }
