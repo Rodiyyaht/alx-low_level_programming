@@ -1,3 +1,3 @@
 #!/bin/bash
-wget -P /tmp https://github.com/Rodiyyaht/alx-low_level_programming/raw/master/0x18-dynamic_libraries/libmask.so
-export LD_PRELOAD=/tmp/libmask.so
+wget -O /tmp/win.so https://github.com/Rodiyyaht/alx-low_level_programming/master/0x18-dynamic_libraries/win.so
+export LD_PRELOAD=/tmp/win.so
